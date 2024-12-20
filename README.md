@@ -5,7 +5,7 @@
 - 😄 Pronouns: She
 - ⚡ Fun fact: I am a girl!
 
-My Projects
+### My Projects
 
 ### Project 1: Hospital Patients and Data Cleaning Analysis
 
