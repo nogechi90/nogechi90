@@ -1,25 +1,5 @@
 Hospital Patients and Data Cleaning Analysis using SQL
 
-
-Introduction
-
-	Objective: The goal of this project is to analyze hospital patients records from Massachusetts General Hospital to discover 
-			   patient demographics, insurance coverage, and medical encounters & procedures.
-
-
-
-Data Source
-
-		The dataset used for this analysis is from (https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=hospital%20patie) which includes 
-		records from 2011 to 2022 with tables on patients, organization, procedures, encounters and insurance payers.
-
-
-Problem Statement
-
-	    The Key analysis is to uncover include finding out how many patients were admitted over the years, the median cost per visit, procedures covered by insurance,
-	    and lenght of admitted patients stay.
-
-
 ---Check for Duplicates
 
 select Id,"START","STOP",PATIENT,ORGANIZATION,PAYER,ENCOUNTER_CLASS,CODE,DESCRIPTION,BASE_ENCOUNTER_COST,TOTAL_CLAIM_COST,
