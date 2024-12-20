@@ -1,20 +1,5 @@
 Crime Data Analysis using SQL
 
-Introduction
-	Objective: The goal of this project is to examine crime data from the state of California, USA to uncover patterns, 
-	trends, and insights, aiding in the comprehension of how different types of crimes are distributed and how frequently they occur.
-
-
-Source Of Data	
-	The dataset used for this analysis is the crime data from (https://www.kaggle.com/datasets/sanjanchaudhari/crime-data-from-2020-to-present) which includes 
-	records from 2010 to 2023 with information on crime types, locations, dates, and victim demographics.
-
-
-Problem Statement
-	The main issues to address include pinpointing crime hotspots, identifying the most frequent types of crimes, 
-	examining crime trends over the years, and analyzing the demographics of crime victims.
-
-
 Exploratory Data Analysis
 
 ---Summary Statistics
@@ -156,10 +141,3 @@ GROUP BY premis_desc
 ORDER BY COUNT(*) DESC
 LIMIT 10;
 
-
-In Summary, the analysis revealed that crime rates have increased steadily over the past years, 
-with certain areas experiencing higher crime rates than others. The most common types of crimes include theft and assault.
-
-
-It is recommended that law enforcement agencies focus on high-crime areas for targeted interventions 
-and increase patrols during peak crime hours.
