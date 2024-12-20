@@ -46,9 +46,10 @@ The analysis revealed an increase in patient admissions over the past decade, wi
 - **Hotspot Identification**: Highlighted areas with consistently high crime rates. 
 - **Crime Distribution by Type**: Categorized crimes to understand their prevalence.
 
-**Additional Analyses:** -
-- Peak hours of crime -
-- Investigation statuses
+**Additional Analyses:** 
+- Peak hours of crime 
+- Investigation status
+- Crime Density by location
 
 **Summary:** 
 The analysis revealed that crime rates have increased steadily over the past years, with certain areas experiencing higher crime rates than others. The most common types of crimes include theft and assault.
